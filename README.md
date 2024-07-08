@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vemelin
-- 👀 I’m interested in making live simple.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on UX/UI Design, Micro Interaction, Animation, Creative websites, React JS, JavaScript, HTML, CSS
+- 👀 I’m interested in making life simple.
+- 🌱 I’m currently all JavaScript/Node related frameworks.
+- 💞️ I’m looking to collaborate on UX/UI Design, Micro Interaction, Animation, React JS, JavaScript, HTML, CSS
 - 📫 How to reach me ...
 
 <!---
